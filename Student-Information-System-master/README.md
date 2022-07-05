@@ -60,6 +60,4 @@ Student information system can be used by education institutes to maintain the r
   ![](https://github.com/Roshannahak/Student-Information-System/blob/master/Screen_shots/detail_page.jpg)
   ![](https://github.com/Roshannahak/Student-Information-System/blob/master/Screen_shots/add_page.jpg)
   
-  **Student:**
-  ![](https://github.com/Roshannahak/Student-Information-System/blob/master/Screen_shots/stdprofile_page.jpg)
-
+  
