@@ -1,10 +1,9 @@
 # Student-Information-System
-**Student Information System** This is our 2nd year web-based project which provides us a simple interface for maintainance of student information.
+**Student Information System** This is our 3rd year web-based project which provides us a simple interface for maintainance of student information.
 
 ### Team Members:
-  * Roshan Nahak
-  * Sunil Kumar
-  * Avaneesh Jha
+  * adnan baig
+  * talha abdur rahman
 
 ## Abstract:-
 Student information system can be used by education institutes to maintain the records of students easily. in this application to allow the administrator of any organization to edit and find out the personal details of a student and allows the student to keep up to date his profile. So administrator can access all the information about an student will be available in a few seconds like admin add new user and can edit and delete a user and also can export student recoreds in excel sheet. A student can update his profile. our project is useful for saving valuable time and reduces the huge paper work. 
@@ -63,6 +62,4 @@ Student information system can be used by education institutes to maintain the r
   
   **Student:**
   ![](https://github.com/Roshannahak/Student-Information-System/blob/master/Screen_shots/stdprofile_page.jpg)
-  
-## Guide By:-
-  **Nitin Upadhyay**
+
